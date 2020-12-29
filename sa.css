@@ -1,0 +1,160 @@
+.A
+{
+    
+    background-image: url("originale.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 630px;
+    height: 1000px;
+   
+}
+.meunu
+{
+    width: 100%;
+    background-color: rgba(3, 3, 3, 0.5);
+    height: 40px;
+}
+.meunu > ul
+{
+margin: 0px;
+padding: 0px;
+float: left;
+list-style-type: none;
+}
+.meunu > ul > li
+{
+    float: left;
+}
+.meunu-aitm
+{
+    display: inline-block;
+    padding: 10px 35px;
+    color: rgb(255, 245, 245);
+  
+}
+.B{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+   font-style: oblique;
+  letter-spacing: 2px;
+}
+.C
+{
+    font-size: 90%;
+  text-align: center;
+    color: rgb(255, 247, 247);
+  font-style: italic;
+  letter-spacing: 2px;
+ 
+}
+.f1{
+    color: rgb(0, 0, 0);
+    font-size:50px;
+
+}                                    
+.f2{
+  font-size:50px;
+  color: #443d57;
+}
+.f3{
+  background-image: url("800_5ad4a048460d5.webp");
+  width: 400px;
+  height: 200px;
+
+}
+.f4{
+  font-size:17px;
+  width: 260px;
+  height: 200px;
+}
+.f5{
+  background-image: url("800_5ad4a2b22f8af.webp");
+  width: 400px;
+  height: 200px;
+
+}
+.f6{
+  background-image: url("800_5ad4a46b3cdd3.webp");
+  width: 400px;
+  height: 200px;
+
+}
+.f7{
+  font-size:17px;
+  width: 260px;
+  height: 200px;
+}
+.f8{
+  background-image: url("est-ce-que-je-peux-manger-un-sorbet-a-la-fraise-pendant-mon-regime-702x336.jpg");
+  width: 400px;
+  height: 200px;
+
+}
+.F{
+    color: rgb(64, 64, 65);
+    letter-spacing: 3px;
+    font-size: 200%;
+    font-style: italic;
+    
+    text-align: center;
+  
+}
+.G{
+    color: lightcoral;
+    text-align: center;
+    font-size: 100%;
+}
+.d4
+{
+    color: black;
+    font-size:39px;
+      }
+  .d5
+   {
+     color: rgb(0, 0, 0);
+ width: 500px;
+height: 370px;
+ padding-top: 35px;
+   margin-left: 200px;
+    background-position:center;
+    text-align: center;
+ }
+ .div h3{
+     font-size: 700%;
+ }
+       
+ .d6
+        {
+          width: 490px;
+          height: 370px;
+          margin-left: 70px;
+          margin-right: 70px;
+         
+      }
+      .AB
+      {
+          width: 100%;
+         background-color: #00000041;
+          height: 40px;
+      }
+      .AB > ul
+      {
+      margin: 0px;
+      padding: 0px;
+      float: left;
+      list-style-type: none;
+      }
+      .AB > ul > li
+      {
+          float: left;
+      }
+      .ABC
+      {
+          display: inline-block;
+          padding: 10px 35px;
+          color: rgb(0, 4, 255);
+        
+      }
+
+
+
